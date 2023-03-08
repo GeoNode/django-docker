@@ -1,4 +1,4 @@
-Django==1.8.7
+Django==2.2.28
 MultipartPostHandler==0.1.0
 OWSLib==0.28.1
 Paver==1.2.1
