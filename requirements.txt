@@ -9,7 +9,7 @@ awesome-slugify==1.6.2
 beautifulsoup4==4.2.1
 billiard==3.3.0.23
 boto==2.38.0
-celery==3.1.18
+celery==5.2.2
 django-kombu==0.9.4
 dj-database-url==0.4.2
 django-activity-stream==0.6.1
