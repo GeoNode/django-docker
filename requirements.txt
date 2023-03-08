@@ -65,7 +65,7 @@ pyproj==1.9.5.1
 python-dateutil==2.5.3
 python-mimeparse==1.5.2
 pytz==2016.6.1
-pyyaml==3.11
+pyyaml==5.4
 regex==2016.7.21
 requests==2.11.1
 transifex-client==0.10
